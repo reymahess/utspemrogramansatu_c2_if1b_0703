@@ -61,9 +61,9 @@ public class soalutsc2_2 {
 
             
         } 
-        System.out.print("Ulangi Progam?(YA/TIDAK:)");
-        String ulangiprogam = go.nextLine();
-            
+        System.out.print("Apakah Anda Ingin Mengulangi Program? (YA/TIDAK): ");
+        ulangiprogram = go.next();
+        
         }while (ulangiprogram.equals("YA"));
         System.out.println("Progam Selesai");
     

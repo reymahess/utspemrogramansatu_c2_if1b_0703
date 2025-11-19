@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class soalutsc1_1 {
+public class soalutsc2_1 {
     
     
     public static void main(String[] args) {
